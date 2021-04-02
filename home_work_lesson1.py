@@ -61,3 +61,4 @@ while a < b:
     day += 1
     print(f'{day}-й день: {a} км')
 print(f'На {day}-й день спортсмен достиг результата - не менее {b} км')
+print('End of home work, thanks!')
